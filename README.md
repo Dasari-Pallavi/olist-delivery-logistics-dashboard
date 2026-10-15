@@ -60,4 +60,4 @@ Python (pandas), Jupyter, Tableau Public, Git/GitHub
 4. Open the Tableau Public link above
 
 ## Author
-Pallavi Dasari | [[LinkedIn](https://www.linkedin.com/in/dasari-pallavi/?isSelfProfile=true)] | [dasaripallavi2113@gmail.com]
+Pallavi Dasari | [[LinkedInhttps://www.linkedin.com/in/dasari-pallavi/?isSelfProfile=true)]]| [dasaripallavi2113@gmail.com]
